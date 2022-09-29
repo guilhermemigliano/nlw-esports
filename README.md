@@ -18,15 +18,15 @@ O desenvolvimento foi separado em 3 partes, são elas:
 
 #### Aplicação web
 
-|                                                   Web 1                                                   |                                                   Web 2                                                   |
-| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-| ![Web-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-1.png?raw=true) | ![Web-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/web-2.png?raw=true) |
+|                                                Web 1                                                 |                                                Web 2                                                 |
+| :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+| ![Web-1](https://github.com/guilhermemigliano/nlw-esports/blob/main/screenshots/web-01.png?raw=true) | ![Web-2](https://github.com/guilhermemigliano/nlw-esports/blob/main/screenshots/web-02.png?raw=true) |
 
 #### Aplicação mobile
 
-|                                                    Mobile 1                                                     |                                                    Mobile 2                                                     |                                                    Mobile 3                                                     |
-| :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-| ![Mobile-1](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-1.png?raw=true) | ![Mobile-2](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-2.png?raw=true) | ![Mobile-3](https://github.com/guilhermemigliano/feedget-nlwreturn/blob/main/screenshots/mobile-3.png?raw=true) |
+|                                                  Mobile 1                                                  |                                                 Mobile 2                                                  |                                                 Mobile 3                                                 |
+| :--------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+| ![Mobile-1](https://github.com/guilhermemigliano/nlw-esports/blob/main/screenshots/mobile-1.png?raw=truee) | ![Mobile-2](https://github.com/guilhermemigliano/nlw-esports/blob/main/screenshots/mobile-2.png?raw=true) | ![Mobile-3](https://github.com/guilhermemigliano/nlw-esports/blob/main/screenshots/mobile3.png?raw=true) |
 
 ### Web
 
